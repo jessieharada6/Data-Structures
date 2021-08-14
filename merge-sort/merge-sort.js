@@ -65,4 +65,3 @@ function mergeSort(arr) {
 }
 
 console.log(mergeSort([150, 2, 10, 14, 1, 100, 99]));
-
